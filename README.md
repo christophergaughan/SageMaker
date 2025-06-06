@@ -1,3 +1,9 @@
+> 🛡️ **Disclaimer:** This repository is for demonstration and educational purposes only.  
+All code and content have been independently written or adapted with respect for intellectual property.  
+No proprietary or confidential materials are used or shared here.
+
+
+
 ## Educational Notebooks
 
 - [**Positional Encoding Explained**](Positional_Encodings.ipynb)  
