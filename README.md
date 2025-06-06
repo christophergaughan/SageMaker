@@ -89,6 +89,14 @@ GitHub Actions included in `.github/workflows/train.yml`:
 - [**TrainingNotebook.ipynb**](TrainingNotebook.ipynb)  
   Experimental training loop with dropout tuning, batch sizes, and activation function exploration.
 
+## 📚 Weights, Biases, and Core ML Concepts
+
+This repo includes notebooks that explore how loss functions, optimizers, and activation functions affect model performance — especially in neural networks like DistilBERT.
+
+For anyone looking to build rock-solid intuition on these core ideas, I highly recommend [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) on YouTube.  
+His explanations of **gradient descent**, **activation functions**, and **loss landscapes** are some of the clearest out there.
+
+
 ## Rough Folder Guide (has been moved around)
 ```
 ├── script.py                       # Core model training script
