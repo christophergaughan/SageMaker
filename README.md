@@ -3,7 +3,7 @@
 - [**Positional Encoding Explained**](Positional_Encodings.ipynb)  
   A clean walkthrough of how transformer models (like BERT) encode word positions using sinusoidal patterns — includes visualizations and code examples. Great for anyone trying to understand the inner workings of attention mechanisms.
 
-# 🔬 SageMaker ML Pipeline: NLP Classification & MLOps Platform Engineering
+# SageMaker ML Pipeline: NLP Classification & MLOps Platform Engineering
 
 This repo demonstrates the full pipeline for deploying NLP models using AWS SageMaker — from data ingestion and preprocessing to model training, deployment, and inference. It’s built with real-world, cloud-native practices in mind, and designed for integration into an internal ML platform like the one described in Genmab's AI & Analytics Engineering team.
 
@@ -95,7 +95,7 @@ GitHub Actions included in `.github/workflows/train.yml`:
 ```
 
 ## Author
-Christopher Gaughan, Ph.D.
+**Christopher Gaughan, Ph.D.**
 Machine Learning Engineer | Biochemical Engineer | Cloud Architect
 
 ##  License
