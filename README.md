@@ -89,7 +89,7 @@ GitHub Actions included in `.github/workflows/train.yml`:
 - [**TrainingNotebook.ipynb**](TrainingNotebook.ipynb)  
   Experimental training loop with dropout tuning, batch sizes, and activation function exploration.
 
-## 📚 Weights, Biases, and Core ML Concepts
+## Weights, Biases, and Core ML Concepts
 
 This repo includes notebooks that explore how loss functions, optimizers, and activation functions affect model performance — especially in neural networks like DistilBERT.
 
