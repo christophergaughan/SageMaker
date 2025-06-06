@@ -114,7 +114,7 @@ MIT License — free to use, modify, and deploy.
 
 > ⚠️ **Note:** This repository is actively being organized to support fully runnable notebooks from end to end.  
 Currently, some notebooks (e.g., `TrainingNotebook.ipynb`) may require running from specific directories or setting paths manually.  
-A streamlined execution flow and directory structure are in progress as ** *time allows* **.
+*A streamlined execution flow and directory structure are in progress* as **time allows**.
 
 
 
