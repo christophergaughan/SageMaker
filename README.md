@@ -96,7 +96,8 @@ GitHub Actions included in `.github/workflows/train.yml`:
 
 ## Author
 **Christopher Gaughan, Ph.D.**
-Machine Learning Engineer | Biochemical Engineer | Cloud Architect
+
+*Machine Learning Engineer | Biochemical Engineer | Cloud Architect*
 
 ##  License
 MIT License — free to use, modify, and deploy.
