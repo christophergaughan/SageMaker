@@ -1,6 +1,6 @@
-> 🛡️ **Disclaimer:** This repository is for demonstration and educational purposes only.  
-All code and content have been independently written or adapted with respect for intellectual property.  
-No proprietary or confidential materials are used or shared here.
+> 🛡️ **Disclaimer:** This repository was created as part of my independent learning in machine learning and MLOps.  
+While I consulted various public resources along the way, including open tutorials and documentation, all code and commentary in this repo were written and developed by me.  
+No proprietary, paid, or licensed content has been copied or redistributed.
 
 
 
