@@ -54,7 +54,7 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 COPY . .
 CMD ["python", "inference.py"]
-
+```
 ### Infrastructure-as-Code
 Provisioned via Terraform:
 ```
